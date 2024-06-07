@@ -1,3 +1,6 @@
 table{border: solid;
 background-color: rgb(175, 243, 237);}
 td{border: solid;}
+img{
+    size: 200px;
+}
